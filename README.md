@@ -17,6 +17,12 @@ Frontend Mentor challenges help you improve your coding skills by building reali
 
 ### Screenshot
 
+- Challenge design
+
+![](./design/desktop-design.jpg)
+
+- My solution
+
 ![](./screenshot.jpg)
 
 ### Links
@@ -31,8 +37,6 @@ Frontend Mentor challenges help you improve your coding skills by building reali
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
 
 ## Author
 
