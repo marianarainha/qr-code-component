@@ -21,10 +21,6 @@ Frontend Mentor challenges help you improve your coding skills by building reali
 
 ![](./design/desktop-design.jpg)
 
-- My solution
-
-![](./screenshot.jpg)
-
 ### Links
 
 - Solution URL: (https://github.com/marianarainha/qr-code-component)
