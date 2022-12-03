@@ -1,0 +1,64 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Outfit", sans-serif;
+}
+
+body {
+  background-color: rgb(214, 226, 240);
+  width: 1440px;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+main {
+  flex-grow: 1;
+  display: flex;
+  align-items: center;
+}
+
+.qrCard {
+  background-color: hsl(0, 0%, 100%);
+  display: flex;
+  flex-direction: column;
+  width: 20%;
+  height: auto;
+  padding: 15px;
+  border-radius: 15px;
+  text-align: center;
+  margin: 0 auto;
+  justify-content: center;
+}
+
+.qrCard img {
+  border-radius: 8px;
+}
+
+.qrCard h1 {
+  color: hsl(218, 44%, 22%);
+  padding: 4px;
+  font-size: 19px;
+  margin-top: 12px;
+  font-weight: 700;
+}
+
+.qrCard p {
+  padding: 7px;
+  font-size: 14px;
+  margin-bottom: 18px;
+  color: hsl(220, 15%, 55%);
+  font-weight: 400;
+}
+
+footer {
+  font-size: 11px;
+  text-align: center;
+  height: 30px;
+  padding: 5px;
+  flex-shrink: 0;
+}
+footer a {
+  color: hsl(228, 45%, 44%);
+}
